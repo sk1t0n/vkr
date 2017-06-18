@@ -1,0 +1,486 @@
+# depslib dependency file v1.0
+1493631615 source:e:\ÂÊĞ_new\c++\codeblocks\karman\main.cpp
+	"math.h"
+	"stdlib.h"
+	"fstream"
+	"iostream"
+	"rapidjson/writer.h"
+	"rapidjson/stringbuffer.h"
+	"string"
+	"Helper.h"
+
+1492970821 source:e:\ÂÊĞ_new\c++\codeblocks\karman\helper.cpp
+	"Helper.h"
+	"math.h"
+
+1492957908 e:\ÂÊĞ_new\c++\codeblocks\karman\helper.h
+
+1492375448 e:\ÂÊĞ_new\c++\codeblocks\karman\include\rapidjson\writer.h
+	"stream.h"
+	"internal/meta.h"
+	"internal/stack.h"
+	"internal/strfunc.h"
+	"internal/dtoa.h"
+	"internal/itoa.h"
+	"stringbuffer.h"
+	<new>
+	<intrin.h>
+	<nmmintrin.h>
+	<emmintrin.h>
+
+1492375448 e:\ÂÊĞ_new\c++\codeblocks\karman\include\rapidjson\stream.h
+	"rapidjson.h"
+	"encodings.h"
+
+1492375448 e:\ÂÊĞ_new\c++\codeblocks\karman\include\rapidjson\rapidjson.h
+	<cstdlib>
+	<cstring>
+	"rapidjson/..."
+	<string>
+	"msinttypes/stdint.h"
+	"msinttypes/inttypes.h"
+	<stdint.h>
+	<inttypes.h>
+	<endian.h>
+	"rapidjson/..."
+	<cassert>
+
+1492375448 e:\ÂÊĞ_new\c++\codeblocks\karman\include\rapidjson\msinttypes\stdint.h
+	<stdint.h>
+	<limits.h>
+	<wchar.h>
+
+1492375448 e:\ÂÊĞ_new\c++\codeblocks\karman\include\rapidjson\msinttypes\inttypes.h
+	"stdint.h"
+	<inttypes.h>
+
+1492375448 e:\ÂÊĞ_new\c++\codeblocks\karman\include\rapidjson\encodings.h
+	"rapidjson.h"
+
+1492375448 e:\ÂÊĞ_new\c++\codeblocks\karman\include\rapidjson\internal\meta.h
+	"../rapidjson.h"
+	<type_traits>
+
+1492375448 e:\ÂÊĞ_new\c++\codeblocks\karman\include\rapidjson\internal\stack.h
+	"../allocators.h"
+	"swap.h"
+
+1492375448 e:\ÂÊĞ_new\c++\codeblocks\karman\include\rapidjson\allocators.h
+	"rapidjson.h"
+
+1492375448 e:\ÂÊĞ_new\c++\codeblocks\karman\include\rapidjson\internal\swap.h
+	"../rapidjson.h"
+
+1492375448 e:\ÂÊĞ_new\c++\codeblocks\karman\include\rapidjson\internal\strfunc.h
+	"../stream.h"
+	<cwchar>
+
+1492375448 e:\ÂÊĞ_new\c++\codeblocks\karman\include\rapidjson\internal\dtoa.h
+	"itoa.h"
+	"diyfp.h"
+	"ieee754.h"
+
+1492375448 e:\ÂÊĞ_new\c++\codeblocks\karman\include\rapidjson\internal\itoa.h
+	"../rapidjson.h"
+
+1492375448 e:\ÂÊĞ_new\c++\codeblocks\karman\include\rapidjson\internal\diyfp.h
+	"../rapidjson.h"
+	<intrin.h>
+
+1492375448 e:\ÂÊĞ_new\c++\codeblocks\karman\include\rapidjson\internal\ieee754.h
+	"../rapidjson.h"
+
+1492375448 e:\ÂÊĞ_new\c++\codeblocks\karman\include\rapidjson\stringbuffer.h
+	"stream.h"
+	"internal/stack.h"
+	<utility>
+	"internal/stack.h"
+
+1493642199 source:e:\ÂÊĞ_(n-3)(n-3)\c++\codeblocks\karman\helper.cpp
+	"Helper.h"
+	"math.h"
+
+1493642049 e:\ÂÊĞ_(n-3)(n-3)\c++\codeblocks\karman\helper.h
+
+1493743320 source:e:\ÂÊĞ_(n-3)(n-3)\c++\codeblocks\karman\main.cpp
+	"math.h"
+	"stdlib.h"
+	"fstream"
+	"iostream"
+	"rapidjson/writer.h"
+	"rapidjson/stringbuffer.h"
+	"string"
+	"Helper.h"
+
+1492375448 e:\ÂÊĞ_(n-3)(n-3)\c++\codeblocks\karman\include\rapidjson\writer.h
+	"stream.h"
+	"internal/meta.h"
+	"internal/stack.h"
+	"internal/strfunc.h"
+	"internal/dtoa.h"
+	"internal/itoa.h"
+	"stringbuffer.h"
+	<new>
+	<intrin.h>
+	<nmmintrin.h>
+	<emmintrin.h>
+
+1492375448 e:\ÂÊĞ_(n-3)(n-3)\c++\codeblocks\karman\include\rapidjson\stream.h
+	"rapidjson.h"
+	"encodings.h"
+
+1492375448 e:\ÂÊĞ_(n-3)(n-3)\c++\codeblocks\karman\include\rapidjson\rapidjson.h
+	<cstdlib>
+	<cstring>
+	"rapidjson/..."
+	<string>
+	"msinttypes/stdint.h"
+	"msinttypes/inttypes.h"
+	<stdint.h>
+	<inttypes.h>
+	<endian.h>
+	"rapidjson/..."
+	<cassert>
+
+1492375448 e:\ÂÊĞ_(n-3)(n-3)\c++\codeblocks\karman\include\rapidjson\msinttypes\stdint.h
+	<stdint.h>
+	<limits.h>
+	<wchar.h>
+
+1492375448 e:\ÂÊĞ_(n-3)(n-3)\c++\codeblocks\karman\include\rapidjson\msinttypes\inttypes.h
+	"stdint.h"
+	<inttypes.h>
+
+1492375448 e:\ÂÊĞ_(n-3)(n-3)\c++\codeblocks\karman\include\rapidjson\encodings.h
+	"rapidjson.h"
+
+1492375448 e:\ÂÊĞ_(n-3)(n-3)\c++\codeblocks\karman\include\rapidjson\internal\meta.h
+	"../rapidjson.h"
+	<type_traits>
+
+1492375448 e:\ÂÊĞ_(n-3)(n-3)\c++\codeblocks\karman\include\rapidjson\internal\stack.h
+	"../allocators.h"
+	"swap.h"
+
+1492375448 e:\ÂÊĞ_(n-3)(n-3)\c++\codeblocks\karman\include\rapidjson\allocators.h
+	"rapidjson.h"
+
+1492375448 e:\ÂÊĞ_(n-3)(n-3)\c++\codeblocks\karman\include\rapidjson\internal\swap.h
+	"../rapidjson.h"
+
+1492375448 e:\ÂÊĞ_(n-3)(n-3)\c++\codeblocks\karman\include\rapidjson\internal\strfunc.h
+	"../stream.h"
+	<cwchar>
+
+1492375448 e:\ÂÊĞ_(n-3)(n-3)\c++\codeblocks\karman\include\rapidjson\internal\dtoa.h
+	"itoa.h"
+	"diyfp.h"
+	"ieee754.h"
+
+1492375448 e:\ÂÊĞ_(n-3)(n-3)\c++\codeblocks\karman\include\rapidjson\internal\itoa.h
+	"../rapidjson.h"
+
+1492375448 e:\ÂÊĞ_(n-3)(n-3)\c++\codeblocks\karman\include\rapidjson\internal\diyfp.h
+	"../rapidjson.h"
+	<intrin.h>
+
+1492375448 e:\ÂÊĞ_(n-3)(n-3)\c++\codeblocks\karman\include\rapidjson\internal\ieee754.h
+	"../rapidjson.h"
+
+1492375448 e:\ÂÊĞ_(n-3)(n-3)\c++\codeblocks\karman\include\rapidjson\stringbuffer.h
+	"stream.h"
+	"internal/stack.h"
+	<utility>
+	"internal/stack.h"
+
+1496398068 source:e:\vkr\c++\codeblocks - gcc\karman\helper.cpp
+	"Helper.h"
+	"math.h"
+
+1496050302 e:\vkr\c++\codeblocks - gcc\karman\helper.h
+
+1496404085 source:e:\vkr\c++\codeblocks - gcc\karman\main.cpp
+	"math.h"
+	"stdlib.h"
+	"fstream"
+	"iostream"
+	"rapidjson/writer.h"
+	"rapidjson/stringbuffer.h"
+	"string"
+	"Helper.h"
+
+1492375448 e:\vkr\c++\codeblocks - gcc\karman\include\rapidjson\writer.h
+	"stream.h"
+	"internal/meta.h"
+	"internal/stack.h"
+	"internal/strfunc.h"
+	"internal/dtoa.h"
+	"internal/itoa.h"
+	"stringbuffer.h"
+	<new>
+	<intrin.h>
+	<nmmintrin.h>
+	<emmintrin.h>
+
+1492375448 e:\vkr\c++\codeblocks - gcc\karman\include\rapidjson\stream.h
+	"rapidjson.h"
+	"encodings.h"
+
+1492375448 e:\vkr\c++\codeblocks - gcc\karman\include\rapidjson\rapidjson.h
+	<cstdlib>
+	<cstring>
+	"rapidjson/..."
+	<string>
+	"msinttypes/stdint.h"
+	"msinttypes/inttypes.h"
+	<stdint.h>
+	<inttypes.h>
+	<endian.h>
+	"rapidjson/..."
+	<cassert>
+
+1492375448 e:\vkr\c++\codeblocks - gcc\karman\include\rapidjson\msinttypes\stdint.h
+	<stdint.h>
+	<limits.h>
+	<wchar.h>
+
+1492375448 e:\vkr\c++\codeblocks - gcc\karman\include\rapidjson\msinttypes\inttypes.h
+	"stdint.h"
+	<inttypes.h>
+
+1492375448 e:\vkr\c++\codeblocks - gcc\karman\include\rapidjson\encodings.h
+	"rapidjson.h"
+
+1492375448 e:\vkr\c++\codeblocks - gcc\karman\include\rapidjson\internal\meta.h
+	"../rapidjson.h"
+	<type_traits>
+
+1492375448 e:\vkr\c++\codeblocks - gcc\karman\include\rapidjson\internal\stack.h
+	"../allocators.h"
+	"swap.h"
+
+1492375448 e:\vkr\c++\codeblocks - gcc\karman\include\rapidjson\allocators.h
+	"rapidjson.h"
+
+1492375448 e:\vkr\c++\codeblocks - gcc\karman\include\rapidjson\internal\swap.h
+	"../rapidjson.h"
+
+1492375448 e:\vkr\c++\codeblocks - gcc\karman\include\rapidjson\internal\strfunc.h
+	"../stream.h"
+	<cwchar>
+
+1492375448 e:\vkr\c++\codeblocks - gcc\karman\include\rapidjson\internal\dtoa.h
+	"itoa.h"
+	"diyfp.h"
+	"ieee754.h"
+
+1492375448 e:\vkr\c++\codeblocks - gcc\karman\include\rapidjson\internal\itoa.h
+	"../rapidjson.h"
+
+1492375448 e:\vkr\c++\codeblocks - gcc\karman\include\rapidjson\internal\diyfp.h
+	"../rapidjson.h"
+	<intrin.h>
+
+1492375448 e:\vkr\c++\codeblocks - gcc\karman\include\rapidjson\internal\ieee754.h
+	"../rapidjson.h"
+
+1492375448 e:\vkr\c++\codeblocks - gcc\karman\include\rapidjson\stringbuffer.h
+	"stream.h"
+	"internal/stack.h"
+	<utility>
+	"internal/stack.h"
+
+1497273320 source:e:\vkr - êîïèÿ\c++\codeblocks - gcc, lib - rapidjson\karman\helper.cpp
+	"Helper.h"
+	"math.h"
+	"rapidjson/writer.h"
+	"rapidjson/stringbuffer.h"
+	"fstream"
+
+1497271949 e:\vkr - êîïèÿ\c++\codeblocks - gcc, lib - rapidjson\karman\helper.h
+	"iostream"
+
+1492375448 e:\vkr - êîïèÿ\c++\codeblocks - gcc, lib - rapidjson\karman\include\rapidjson\writer.h
+	"stream.h"
+	"internal/meta.h"
+	"internal/stack.h"
+	"internal/strfunc.h"
+	"internal/dtoa.h"
+	"internal/itoa.h"
+	"stringbuffer.h"
+	<new>
+	<intrin.h>
+	<nmmintrin.h>
+	<emmintrin.h>
+
+1492375448 e:\vkr - êîïèÿ\c++\codeblocks - gcc, lib - rapidjson\karman\include\rapidjson\stream.h
+	"rapidjson.h"
+	"encodings.h"
+
+1492375448 e:\vkr - êîïèÿ\c++\codeblocks - gcc, lib - rapidjson\karman\include\rapidjson\rapidjson.h
+	<cstdlib>
+	<cstring>
+	"rapidjson/..."
+	<string>
+	"msinttypes/stdint.h"
+	"msinttypes/inttypes.h"
+	<stdint.h>
+	<inttypes.h>
+	<endian.h>
+	"rapidjson/..."
+	<cassert>
+
+1492375448 e:\vkr - êîïèÿ\c++\codeblocks - gcc, lib - rapidjson\karman\include\rapidjson\msinttypes\stdint.h
+	<stdint.h>
+	<limits.h>
+	<wchar.h>
+
+1492375448 e:\vkr - êîïèÿ\c++\codeblocks - gcc, lib - rapidjson\karman\include\rapidjson\msinttypes\inttypes.h
+	"stdint.h"
+	<inttypes.h>
+
+1492375448 e:\vkr - êîïèÿ\c++\codeblocks - gcc, lib - rapidjson\karman\include\rapidjson\encodings.h
+	"rapidjson.h"
+
+1492375448 e:\vkr - êîïèÿ\c++\codeblocks - gcc, lib - rapidjson\karman\include\rapidjson\internal\meta.h
+	"../rapidjson.h"
+	<type_traits>
+
+1492375448 e:\vkr - êîïèÿ\c++\codeblocks - gcc, lib - rapidjson\karman\include\rapidjson\internal\stack.h
+	"../allocators.h"
+	"swap.h"
+
+1492375448 e:\vkr - êîïèÿ\c++\codeblocks - gcc, lib - rapidjson\karman\include\rapidjson\allocators.h
+	"rapidjson.h"
+
+1492375448 e:\vkr - êîïèÿ\c++\codeblocks - gcc, lib - rapidjson\karman\include\rapidjson\internal\swap.h
+	"../rapidjson.h"
+
+1492375448 e:\vkr - êîïèÿ\c++\codeblocks - gcc, lib - rapidjson\karman\include\rapidjson\internal\strfunc.h
+	"../stream.h"
+	<cwchar>
+
+1492375448 e:\vkr - êîïèÿ\c++\codeblocks - gcc, lib - rapidjson\karman\include\rapidjson\internal\dtoa.h
+	"itoa.h"
+	"diyfp.h"
+	"ieee754.h"
+
+1492375448 e:\vkr - êîïèÿ\c++\codeblocks - gcc, lib - rapidjson\karman\include\rapidjson\internal\itoa.h
+	"../rapidjson.h"
+
+1492375448 e:\vkr - êîïèÿ\c++\codeblocks - gcc, lib - rapidjson\karman\include\rapidjson\internal\diyfp.h
+	"../rapidjson.h"
+	<intrin.h>
+
+1492375448 e:\vkr - êîïèÿ\c++\codeblocks - gcc, lib - rapidjson\karman\include\rapidjson\internal\ieee754.h
+	"../rapidjson.h"
+
+1492375448 e:\vkr - êîïèÿ\c++\codeblocks - gcc, lib - rapidjson\karman\include\rapidjson\stringbuffer.h
+	"stream.h"
+	"internal/stack.h"
+	<utility>
+	"internal/stack.h"
+
+1497279950 source:e:\vkr - êîïèÿ\c++\codeblocks - gcc, lib - rapidjson\karman\main.cpp
+	"math.h"
+	"stdlib.h"
+	"iostream"
+	"Helper.h"
+
+1497273320 source:e:\vkr\git\c++\codeblocks - gcc, lib - rapidjson\karman\helper.cpp
+	"Helper.h"
+	"math.h"
+	"rapidjson/writer.h"
+	"rapidjson/stringbuffer.h"
+	"fstream"
+
+1497271949 e:\vkr\git\c++\codeblocks - gcc, lib - rapidjson\karman\helper.h
+	"iostream"
+
+1492375448 e:\vkr\git\c++\codeblocks - gcc, lib - rapidjson\karman\include\rapidjson\writer.h
+	"stream.h"
+	"internal/meta.h"
+	"internal/stack.h"
+	"internal/strfunc.h"
+	"internal/dtoa.h"
+	"internal/itoa.h"
+	"stringbuffer.h"
+	<new>
+	<intrin.h>
+	<nmmintrin.h>
+	<emmintrin.h>
+
+1492375448 e:\vkr\git\c++\codeblocks - gcc, lib - rapidjson\karman\include\rapidjson\stream.h
+	"rapidjson.h"
+	"encodings.h"
+
+1492375448 e:\vkr\git\c++\codeblocks - gcc, lib - rapidjson\karman\include\rapidjson\rapidjson.h
+	<cstdlib>
+	<cstring>
+	"rapidjson/..."
+	<string>
+	"msinttypes/stdint.h"
+	"msinttypes/inttypes.h"
+	<stdint.h>
+	<inttypes.h>
+	<endian.h>
+	"rapidjson/..."
+	<cassert>
+
+1492375448 e:\vkr\git\c++\codeblocks - gcc, lib - rapidjson\karman\include\rapidjson\msinttypes\stdint.h
+	<stdint.h>
+	<limits.h>
+	<wchar.h>
+
+1492375448 e:\vkr\git\c++\codeblocks - gcc, lib - rapidjson\karman\include\rapidjson\msinttypes\inttypes.h
+	"stdint.h"
+	<inttypes.h>
+
+1492375448 e:\vkr\git\c++\codeblocks - gcc, lib - rapidjson\karman\include\rapidjson\encodings.h
+	"rapidjson.h"
+
+1492375448 e:\vkr\git\c++\codeblocks - gcc, lib - rapidjson\karman\include\rapidjson\internal\meta.h
+	"../rapidjson.h"
+	<type_traits>
+
+1492375448 e:\vkr\git\c++\codeblocks - gcc, lib - rapidjson\karman\include\rapidjson\internal\stack.h
+	"../allocators.h"
+	"swap.h"
+
+1492375448 e:\vkr\git\c++\codeblocks - gcc, lib - rapidjson\karman\include\rapidjson\allocators.h
+	"rapidjson.h"
+
+1492375448 e:\vkr\git\c++\codeblocks - gcc, lib - rapidjson\karman\include\rapidjson\internal\swap.h
+	"../rapidjson.h"
+
+1492375448 e:\vkr\git\c++\codeblocks - gcc, lib - rapidjson\karman\include\rapidjson\internal\strfunc.h
+	"../stream.h"
+	<cwchar>
+
+1492375448 e:\vkr\git\c++\codeblocks - gcc, lib - rapidjson\karman\include\rapidjson\internal\dtoa.h
+	"itoa.h"
+	"diyfp.h"
+	"ieee754.h"
+
+1492375448 e:\vkr\git\c++\codeblocks - gcc, lib - rapidjson\karman\include\rapidjson\internal\itoa.h
+	"../rapidjson.h"
+
+1492375448 e:\vkr\git\c++\codeblocks - gcc, lib - rapidjson\karman\include\rapidjson\internal\diyfp.h
+	"../rapidjson.h"
+	<intrin.h>
+
+1492375448 e:\vkr\git\c++\codeblocks - gcc, lib - rapidjson\karman\include\rapidjson\internal\ieee754.h
+	"../rapidjson.h"
+
+1492375448 e:\vkr\git\c++\codeblocks - gcc, lib - rapidjson\karman\include\rapidjson\stringbuffer.h
+	"stream.h"
+	"internal/stack.h"
+	<utility>
+	"internal/stack.h"
+
+1497810118 source:e:\vkr\git\c++\codeblocks - gcc, lib - rapidjson\karman\main.cpp
+	"math.h"
+	"stdlib.h"
+	"iostream"
+	"Helper.h"
+

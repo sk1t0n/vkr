@@ -1,0 +1,297 @@
+# depslib dependency file v1.0
+1492440715 source:e:\ВКР_new\codeblocks\ct\helper.cpp
+	"Helper.h"
+	"math.h"
+
+1492440680 e:\ВКР_new\codeblocks\ct\helper.h
+
+1494009850 source:e:\ВКР_(n-3)(n-3)\c++\codeblocks\ct\helper.cpp
+	"Helper.h"
+	"math.h"
+
+1494009834 e:\ВКР_(n-3)(n-3)\c++\codeblocks\ct\helper.h
+
+1494009918 source:e:\ВКР_(n-3)(n-3)\c++\codeblocks\ct\main.cpp
+	"math.h"
+	"stdlib.h"
+	"fstream"
+	"iostream"
+	"string"
+	"rapidjson/writer.h"
+	"rapidjson/stringbuffer.h"
+	"Helper.h"
+
+1492375448 e:\ВКР_(n-3)(n-3)\c++\codeblocks\ct\include\rapidjson\writer.h
+	"stream.h"
+	"internal/meta.h"
+	"internal/stack.h"
+	"internal/strfunc.h"
+	"internal/dtoa.h"
+	"internal/itoa.h"
+	"stringbuffer.h"
+	<new>
+	<intrin.h>
+	<nmmintrin.h>
+	<emmintrin.h>
+
+1492375448 e:\ВКР_(n-3)(n-3)\c++\codeblocks\ct\include\rapidjson\stream.h
+	"rapidjson.h"
+	"encodings.h"
+
+1492375448 e:\ВКР_(n-3)(n-3)\c++\codeblocks\ct\include\rapidjson\rapidjson.h
+	<cstdlib>
+	<cstring>
+	"rapidjson/..."
+	<string>
+	"msinttypes/stdint.h"
+	"msinttypes/inttypes.h"
+	<stdint.h>
+	<inttypes.h>
+	<endian.h>
+	"rapidjson/..."
+	<cassert>
+
+1492375448 e:\ВКР_(n-3)(n-3)\c++\codeblocks\ct\include\rapidjson\msinttypes\stdint.h
+	<stdint.h>
+	<limits.h>
+	<wchar.h>
+
+1492375448 e:\ВКР_(n-3)(n-3)\c++\codeblocks\ct\include\rapidjson\msinttypes\inttypes.h
+	"stdint.h"
+	<inttypes.h>
+
+1492375448 e:\ВКР_(n-3)(n-3)\c++\codeblocks\ct\include\rapidjson\encodings.h
+	"rapidjson.h"
+
+1492375448 e:\ВКР_(n-3)(n-3)\c++\codeblocks\ct\include\rapidjson\internal\meta.h
+	"../rapidjson.h"
+	<type_traits>
+
+1492375448 e:\ВКР_(n-3)(n-3)\c++\codeblocks\ct\include\rapidjson\internal\stack.h
+	"../allocators.h"
+	"swap.h"
+
+1492375448 e:\ВКР_(n-3)(n-3)\c++\codeblocks\ct\include\rapidjson\allocators.h
+	"rapidjson.h"
+
+1492375448 e:\ВКР_(n-3)(n-3)\c++\codeblocks\ct\include\rapidjson\internal\swap.h
+	"../rapidjson.h"
+
+1492375448 e:\ВКР_(n-3)(n-3)\c++\codeblocks\ct\include\rapidjson\internal\strfunc.h
+	"../stream.h"
+	<cwchar>
+
+1492375448 e:\ВКР_(n-3)(n-3)\c++\codeblocks\ct\include\rapidjson\internal\dtoa.h
+	"itoa.h"
+	"diyfp.h"
+	"ieee754.h"
+
+1492375448 e:\ВКР_(n-3)(n-3)\c++\codeblocks\ct\include\rapidjson\internal\itoa.h
+	"../rapidjson.h"
+
+1492375448 e:\ВКР_(n-3)(n-3)\c++\codeblocks\ct\include\rapidjson\internal\diyfp.h
+	"../rapidjson.h"
+	<intrin.h>
+
+1492375448 e:\ВКР_(n-3)(n-3)\c++\codeblocks\ct\include\rapidjson\internal\ieee754.h
+	"../rapidjson.h"
+
+1492375448 e:\ВКР_(n-3)(n-3)\c++\codeblocks\ct\include\rapidjson\stringbuffer.h
+	"stream.h"
+	"internal/stack.h"
+	<utility>
+	"internal/stack.h"
+
+1494009850 source:e:\vkr\c++\codeblocks - gcc\ct\helper.cpp
+	"Helper.h"
+	"math.h"
+
+1494009834 e:\vkr\c++\codeblocks - gcc\ct\helper.h
+
+1496670098 source:e:\vkr\c++\codeblocks - gcc\ct\main.cpp
+	"math.h"
+	"stdlib.h"
+	"fstream"
+	"iostream"
+	"string"
+	"rapidjson/writer.h"
+	"rapidjson/stringbuffer.h"
+	"Helper.h"
+
+1492375448 e:\vkr\c++\codeblocks - gcc\ct\include\rapidjson\writer.h
+	"stream.h"
+	"internal/meta.h"
+	"internal/stack.h"
+	"internal/strfunc.h"
+	"internal/dtoa.h"
+	"internal/itoa.h"
+	"stringbuffer.h"
+	<new>
+	<intrin.h>
+	<nmmintrin.h>
+	<emmintrin.h>
+
+1492375448 e:\vkr\c++\codeblocks - gcc\ct\include\rapidjson\stream.h
+	"rapidjson.h"
+	"encodings.h"
+
+1492375448 e:\vkr\c++\codeblocks - gcc\ct\include\rapidjson\rapidjson.h
+	<cstdlib>
+	<cstring>
+	"rapidjson/..."
+	<string>
+	"msinttypes/stdint.h"
+	"msinttypes/inttypes.h"
+	<stdint.h>
+	<inttypes.h>
+	<endian.h>
+	"rapidjson/..."
+	<cassert>
+
+1492375448 e:\vkr\c++\codeblocks - gcc\ct\include\rapidjson\msinttypes\stdint.h
+	<stdint.h>
+	<limits.h>
+	<wchar.h>
+
+1492375448 e:\vkr\c++\codeblocks - gcc\ct\include\rapidjson\msinttypes\inttypes.h
+	"stdint.h"
+	<inttypes.h>
+
+1492375448 e:\vkr\c++\codeblocks - gcc\ct\include\rapidjson\encodings.h
+	"rapidjson.h"
+
+1492375448 e:\vkr\c++\codeblocks - gcc\ct\include\rapidjson\internal\meta.h
+	"../rapidjson.h"
+	<type_traits>
+
+1492375448 e:\vkr\c++\codeblocks - gcc\ct\include\rapidjson\internal\stack.h
+	"../allocators.h"
+	"swap.h"
+
+1492375448 e:\vkr\c++\codeblocks - gcc\ct\include\rapidjson\allocators.h
+	"rapidjson.h"
+
+1492375448 e:\vkr\c++\codeblocks - gcc\ct\include\rapidjson\internal\swap.h
+	"../rapidjson.h"
+
+1492375448 e:\vkr\c++\codeblocks - gcc\ct\include\rapidjson\internal\strfunc.h
+	"../stream.h"
+	<cwchar>
+
+1492375448 e:\vkr\c++\codeblocks - gcc\ct\include\rapidjson\internal\dtoa.h
+	"itoa.h"
+	"diyfp.h"
+	"ieee754.h"
+
+1492375448 e:\vkr\c++\codeblocks - gcc\ct\include\rapidjson\internal\itoa.h
+	"../rapidjson.h"
+
+1492375448 e:\vkr\c++\codeblocks - gcc\ct\include\rapidjson\internal\diyfp.h
+	"../rapidjson.h"
+	<intrin.h>
+
+1492375448 e:\vkr\c++\codeblocks - gcc\ct\include\rapidjson\internal\ieee754.h
+	"../rapidjson.h"
+
+1492375448 e:\vkr\c++\codeblocks - gcc\ct\include\rapidjson\stringbuffer.h
+	"stream.h"
+	"internal/stack.h"
+	<utility>
+	"internal/stack.h"
+
+1496941254 source:e:\vkr - копия\c++\codeblocks - gcc, lib - rapidjson\ct\helper.cpp
+	"Helper.h"
+	"math.h"
+	"rapidjson/writer.h"
+	"rapidjson/stringbuffer.h"
+	"fstream"
+
+1496815630 e:\vkr - копия\c++\codeblocks - gcc, lib - rapidjson\ct\helper.h
+	"iostream"
+
+1492375448 e:\vkr - копия\c++\codeblocks - gcc, lib - rapidjson\ct\include\rapidjson\writer.h
+	"stream.h"
+	"internal/meta.h"
+	"internal/stack.h"
+	"internal/strfunc.h"
+	"internal/dtoa.h"
+	"internal/itoa.h"
+	"stringbuffer.h"
+	<new>
+	<intrin.h>
+	<nmmintrin.h>
+	<emmintrin.h>
+
+1492375448 e:\vkr - копия\c++\codeblocks - gcc, lib - rapidjson\ct\include\rapidjson\stream.h
+	"rapidjson.h"
+	"encodings.h"
+
+1492375448 e:\vkr - копия\c++\codeblocks - gcc, lib - rapidjson\ct\include\rapidjson\rapidjson.h
+	<cstdlib>
+	<cstring>
+	"rapidjson/..."
+	<string>
+	"msinttypes/stdint.h"
+	"msinttypes/inttypes.h"
+	<stdint.h>
+	<inttypes.h>
+	<endian.h>
+	"rapidjson/..."
+	<cassert>
+
+1492375448 e:\vkr - копия\c++\codeblocks - gcc, lib - rapidjson\ct\include\rapidjson\msinttypes\stdint.h
+	<stdint.h>
+	<limits.h>
+	<wchar.h>
+
+1492375448 e:\vkr - копия\c++\codeblocks - gcc, lib - rapidjson\ct\include\rapidjson\msinttypes\inttypes.h
+	"stdint.h"
+	<inttypes.h>
+
+1492375448 e:\vkr - копия\c++\codeblocks - gcc, lib - rapidjson\ct\include\rapidjson\encodings.h
+	"rapidjson.h"
+
+1492375448 e:\vkr - копия\c++\codeblocks - gcc, lib - rapidjson\ct\include\rapidjson\internal\meta.h
+	"../rapidjson.h"
+	<type_traits>
+
+1492375448 e:\vkr - копия\c++\codeblocks - gcc, lib - rapidjson\ct\include\rapidjson\internal\stack.h
+	"../allocators.h"
+	"swap.h"
+
+1492375448 e:\vkr - копия\c++\codeblocks - gcc, lib - rapidjson\ct\include\rapidjson\allocators.h
+	"rapidjson.h"
+
+1492375448 e:\vkr - копия\c++\codeblocks - gcc, lib - rapidjson\ct\include\rapidjson\internal\swap.h
+	"../rapidjson.h"
+
+1492375448 e:\vkr - копия\c++\codeblocks - gcc, lib - rapidjson\ct\include\rapidjson\internal\strfunc.h
+	"../stream.h"
+	<cwchar>
+
+1492375448 e:\vkr - копия\c++\codeblocks - gcc, lib - rapidjson\ct\include\rapidjson\internal\dtoa.h
+	"itoa.h"
+	"diyfp.h"
+	"ieee754.h"
+
+1492375448 e:\vkr - копия\c++\codeblocks - gcc, lib - rapidjson\ct\include\rapidjson\internal\itoa.h
+	"../rapidjson.h"
+
+1492375448 e:\vkr - копия\c++\codeblocks - gcc, lib - rapidjson\ct\include\rapidjson\internal\diyfp.h
+	"../rapidjson.h"
+	<intrin.h>
+
+1492375448 e:\vkr - копия\c++\codeblocks - gcc, lib - rapidjson\ct\include\rapidjson\internal\ieee754.h
+	"../rapidjson.h"
+
+1492375448 e:\vkr - копия\c++\codeblocks - gcc, lib - rapidjson\ct\include\rapidjson\stringbuffer.h
+	"stream.h"
+	"internal/stack.h"
+	<utility>
+	"internal/stack.h"
+
+1497158077 source:e:\vkr - копия\c++\codeblocks - gcc, lib - rapidjson\ct\main.cpp
+	"math.h"
+	"stdlib.h"
+	"Helper.h"
+
